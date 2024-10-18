@@ -47,4 +47,4 @@ const SearchMovie = () => {
     )
 }
 
-export default SearchMovie
+export default SearchMovie;
